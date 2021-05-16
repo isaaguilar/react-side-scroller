@@ -1,0 +1,16 @@
+/*
+* {
+  margin: 0;
+  padding: 0;
+}
+*/
+html, body {
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: #FFFFFF;
+}
+
+div.active {
+  font-weight: 600;
+}
